@@ -1,0 +1,10 @@
+# coding:utf-8
+
+for a in [1, 2, 3, 4, 5]:
+    print(a)
+    print("こんにちは")
+
+
+for a in [1, 2, 3, 4, 5]:
+    print(a)
+print("こんにちは")
