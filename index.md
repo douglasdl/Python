@@ -1,27 +1,50 @@
-## [Python](https://www.python.org/)
+# [Python](https://www.python.org/)
 
 You can use the [editor on GitHub](https://github.com/douglasdl/Python/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Basic
-### BasicCourse
-### Calendar
-### Callback
-### ChatBot
+## Basic
+### Comment
+### Continue
 ### Fibonacci
 ### FlappyBirdAI
-### MachineLearning
-### Modbus/pylibmodbus-master
-### Murtazahassan.com
-### OpenCV
+### For
+### Function
+### HelloWorld
+### IF
+### Import
+### Input
+### Mediana
+### Moda
+### Média
+### Open
 ### Pokemon
-### PythonProgrammingNet
-### PythonTraining
-### QRCode
-### RaspberryPi
-### SQLite3
-### Window
+### Primos
+### Print
+### Random
+### Range
+### Soma
+### Variables
+### While
+
+## BasicCourse
+## Calendar
+## Callback
+## ChatBot
+## Fibonacci
+## FlappyBirdAI
+## MachineLearning
+## Modbus/pylibmodbus-master
+## Murtazahassan.com
+## OpenCV
+## Pokemon
+## PythonProgrammingNet
+## PythonTraining
+## QRCode
+## RaspberryPi
+## SQLite3
+## Window
 
 - Bulleted
 - List
